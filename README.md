@@ -12,3 +12,4 @@
 - 🌱 I’m currently learning on how to code on Linux.
 - 📫 You can reach me on Discord: Wednesday | Hates NFTs#2023
 - 🔗 I have an about me page: https://r5-3600.github.io/about-me/
+- 🔗 I have a public projects repo page: https://github.com/R5-3600/projects
