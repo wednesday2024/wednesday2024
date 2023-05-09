@@ -18,6 +18,7 @@ ________________________________________________________________________________
 - 📫 You can reach me on Discord: Wednesday | Hates NFTs#2023
 - 🔗 Check out my about me page: https://r5-3600.github.io/about-me/
 - 🔗 Check out my public projects repo page: https://github.com/R5-3600/projects
+- 🍎 In 2021, I was offered a job at Apple.
 
 
 
