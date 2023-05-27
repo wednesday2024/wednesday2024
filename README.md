@@ -3,7 +3,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-stat-counter-k6vfcuo2a-r5-3600.vercel.app/api?username=R5-3600&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-stat-counter-9dd34ewjz-r5-3600.vercel.app/api?username=R5-3600&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
 
 
 
