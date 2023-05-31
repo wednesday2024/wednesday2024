@@ -32,10 +32,10 @@ ________________________________________________________________________________
 - ~~Release my privacy policy.~~
 - ~~Announce Bean Counters for Linux.~~
 - ~~Release Bean Counters for Linux.~~
-- Start development again on my Unity projects (This will be on October 1st, 2023).
-- Release my about me v2 website.
 - Reorganize all of the projects that are in the https://github.com/R5-3600/projects repo.
+- Release my about me v2 website.
 - Release a website that contains all of my public published projects.
+- Start development again on my Unity projects (This will be on October 1st, 2023).
 - Release a Discord server for all of my projects.
 - Update the current sites to state 2024 instead of 2023.
 
