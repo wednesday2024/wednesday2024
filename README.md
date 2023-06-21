@@ -19,7 +19,7 @@ ________________________________________________________________________________
 - 🔗 Check out my about me page: https://r5-3600.github.io/about-me/
 - 🔗 Check out my public projects repo page: https://github.com/R5-3600/projects
 - 🍎 In 2021, I was offered a job at Apple.
-- 🦸‍♂️🎥 In the fall of 2022, I was almost in a movie with the voice actor of Mr. Incredible.
+- 🎥 In the fall of 2022, I was almost in a movie with the voice actor of Mr. Incredible.
 
 
 
