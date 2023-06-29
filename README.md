@@ -1,17 +1,8 @@
 # Hi there! Welcome to my GitHub profile. 👋
 
-
-
-
 ![Anurag's GitHub stats](https://github-stat-counter-r5-3600.vercel.app/api?username=R5-3600&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
 
-
-
-
 __________________________________________________________________________________________________________________________________________________________
-
-
-
 
 - 🔭 I’m currently working on coding HTML and coding Unity games (my Unity projects are on hold starting from May 1st, 2023 until October 1st, 2023).
 - 🌱 I’m currently learning on how to code on Linux.
@@ -31,7 +22,6 @@ ________________________________________________________________________________
 - Reorganize all of the projects that are in the https://github.com/R5-3600/projects repo.
 - Release a website that contains all of my public published projects.
 - Start development again on my Unity projects (This will be on October 1st, 2023).
-- Release a Discord server for all of my projects.
 - Release my about me v2 website.
 - Update the current sites to state 2024 instead of 2023.
 
@@ -42,6 +32,3 @@ ________________________________________________________________________________
 ## 📝To-do list before December 31st, 2024 (in order):
 - Release My Summer Game 2 for Android and Linux.
 - Update the current sites to state 2025 instead of 2024.
-
-
-
