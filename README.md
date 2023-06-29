@@ -21,23 +21,27 @@ ________________________________________________________________________________
 - 🍎 In 2021, I was offered a job at Apple.
 - 🎥 In the fall of 2022, I was almost in a movie with the voice actor of Mr. Incredible.
 
-
-
-
 __________________________________________________________________________________________________________________________________________________________
-
-
-
 
 ## 📝To-do list before December 31st, 2023 (in order):
 - ~~Release my privacy policy.~~
 - ~~Announce Bean Counters for Linux.~~
 - ~~Release Bean Counters for Linux.~~
+- Announce [REDACTED] for Linux.
 - Reorganize all of the projects that are in the https://github.com/R5-3600/projects repo.
-- Release my about me v2 website.
 - Release a website that contains all of my public published projects.
 - Start development again on my Unity projects (This will be on October 1st, 2023).
 - Release a Discord server for all of my projects.
+- Release my about me v2 website.
 - Update the current sites to state 2024 instead of 2023.
+
+## 📝To-do list before May 1st, 2024 (in order):
+- Release [REDACTED] for Linux.
+- Release a Discord server for all of my projects.
+
+## 📝To-do list before December 31st, 2024 (in order):
+- Release My Summer Game 2 for Android and Linux.
+- Update the current sites to state 2025 instead of 2024.
+
 
 
