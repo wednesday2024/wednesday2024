@@ -23,6 +23,7 @@ ________________________________________________________________________________
 - Reorganize all of the projects that are in the https://github.com/R5-3600/projects repo.
 - Release a website that contains all of my public published projects.
 - Start development again on my Unity projects (This will be on October 1st, 2023).
+- Release my about me v3 website (This will be on October 1st, 2023).
 - Update the current sites to state 2024 instead of 2023.
 
 ## 📝To-do list before May 1st, 2024 (in order):
