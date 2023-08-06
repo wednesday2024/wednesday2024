@@ -4,7 +4,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on coding HTML and coding Unity games (my Unity projects are on hold starting from May 1st, 2023 until October 1st, 2023).
+- 🔭 I’m currently working on coding HTML and coding Unity games (my Unity projects are on hold starting from May 1st, 2023 until September 1st, 2023).
 - 🌱 I’m currently learning on how to code on Linux.
 - 📫 You can reach me on Discord: ryzen5_3600
 - 🔗 Check out my about me page: https://r5-3600.github.io/about-me/
