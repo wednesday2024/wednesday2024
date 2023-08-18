@@ -11,6 +11,7 @@ ________________________________________________________________________________
 - 🔗 Check out my public projects repo page: https://github.com/R5-3600/projects
 - 🍎 In 2021, I was offered a job at Apple.
 - 🎥 In the fall of 2022, I was almost in a movie with the voice actor of Mr. Incredible.
+- What you see in my repositories are what I have public as of right now. I have several repositories that are private as of right now that won't see day light anywhere from Q4 2023 until Q1 2026.
 
 __________________________________________________________________________________________________________________________________________________________
 
