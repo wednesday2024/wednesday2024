@@ -34,5 +34,4 @@ ________________________________________________________________________________
 - Release a website that contains all of my public published projects.
 
 ## 📝To-do list before December 31st, 2024 (in order):
-- Release My Summer Game 2 for Android and Linux (has been in development since August of 2020).
 - Update the current sites to state 2025 instead of 2024.
