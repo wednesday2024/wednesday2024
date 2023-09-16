@@ -4,7 +4,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on coding HTML and coding Unity games. An update to state the future for this will be released September 16, 2023 at 3:00pm Central Time.
+- 🔭 I’m currently working on coding HTML and coding Unity games. [An update to my current and future Unity projects.](https://github.com/R5-3600/Announcements/blob/main/announcement_9-16-2023.txt)
 - 🌱 I’m currently learning on how to code on Linux.
 - 📫 You can reach me on Discord: ryzen5_3600
 - 🔗 Check out my about me page: https://r5-3600.github.io/about-me/
