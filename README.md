@@ -28,10 +28,5 @@ ________________________________________________________________________________
 - Release Flappy Tux for Linux (This will be in December of 2023).
 - Update the current sites to state 2024 instead of 2023.
 
-## 📝To-do list before May 1st, 2024 (in order):
-- Release a Discord server for all of my projects.
-- Reorganize all of the projects that are in the https://github.com/R5-3600/projects repo.
-- Release a website that contains all of my public published projects.
-
 ## 📝To-do list before December 31st, 2024 (in order):
 - Update the current sites to state 2025 instead of 2024.
