@@ -23,8 +23,8 @@ ________________________________________________________________________________
 - ~~Announce Bean Counters for Linux.~~
 - ~~Release Bean Counters for Linux.~~
 - ~~Release my about me v2 website (This will be on July 19th, 2023).~~
-- ~~Announce Flappy Tux for Linux~~.
-- Release my about me v3 website (This will be on October 1st, 2023).
+- ~~Announce Flappy Tux for Linux.~~
+- ~~Release my about me v3 website (This will be on September 30th, 2023).~~
 - Release Flappy Tux for Linux (This will be in December of 2023).
 - Update the current sites to state 2024 instead of 2023.
 
