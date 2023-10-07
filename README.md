@@ -25,7 +25,7 @@ ________________________________________________________________________________
 - ~~Release my about me v2 website (This will be on July 19th, 2023).~~
 - ~~Announce Flappy Tux for Linux.~~
 - ~~Release my about me v3 website (This will be on September 30th, 2023).~~
-- Release Flappy Tux for Linux and Windows (This will be October 7, 2023).
+- Release Flappy Tux for Linux and Windows (This will be on October 7, 2023).
 - Update the current sites to state 2024 instead of 2023.
 
 ## 📝To-do list before December 31st, 2024 (in order):
