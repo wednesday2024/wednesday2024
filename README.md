@@ -1,6 +1,6 @@
 # Hi there! Welcome to my GitHub profile. 👋
 
-![Ryzen5-3600's GitHub stats]([https://github-readme-stats-r5-3600.vercel.app/api?username=R5-3600&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
+![Ryzen5-3600's GitHub stats](https://github-readme-stats-r5-3600.vercel.app/api?username=R5-3600&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
 
 __________________________________________________________________________________________________________________________________________________________
 
