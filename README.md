@@ -5,7 +5,7 @@
 __________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on coding HTML and coding Unity games. [An update to my current and future Unity projects.](https://github.com/R5-3600/Announcements/blob/main/announcement_9-16-2023.txt)
-- 🌱 I’m currently learning on how to code on Linux.
+- 🌱 I’m currently learning on how to code on Linux. I am also currently learning how to use databases and CDNs.
 - 📫 You can reach me on Discord: ryzen5_3600
 - 🔗 Check out my about me page: https://r5-3600.github.io/about-me/
 - 🔗 Check out my public projects repo page: https://github.com/R5-3600/projects
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - ~~Announce Flappy Tux for Linux.~~
 - ~~Release my about me v3 website (This will be on September 30th, 2023).~~
 - ~~Release Flappy Tux for Linux and Windows (This will be on October 7, 2023).~~
-- Update the current sites to state 2024 instead of 2023.
+- ~~Update the current sites to state 2024 instead of 2023.~~
 - Archive https://github.com/R5-3600/2048_clones on or before December 31, 2023
 - Archive https://github.com/1000YearsLater/RetroDatabase on or before December 31, 2023
 - Archive https://github.com/1000YearsLater/1000yearslater.github.io on or before December 31, 2023
