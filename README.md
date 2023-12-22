@@ -4,6 +4,24 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## I am actively working on the following repos:
+WaddlePenguins/[REDACTED]
+
+WaddlePenguins/[REDACTED]
+
+WaddlePenguins/[REDACTED]
+
+WaddlePenguins/.github
+
+R5-3600/about-me
+
+R5-3600/projects
+
+R5-3600/[REDACTED]
+
+R5-3600/[REDACTED]
+__________________________________________________________________________________________________________________________________________________________
+
 - 🔭 I’m currently working on coding HTML and coding Unity games. [An update to my current and future Unity projects.](https://github.com/R5-3600/Announcements/blob/main/announcement_9-16-2023.txt)
 - 🌱 I’m currently learning on how to code on Linux. I am also currently learning how to use databases and CDNs.
 - 📫 You can reach me on Discord: ryzen5_3600
@@ -33,3 +51,4 @@ ________________________________________________________________________________
 
 ## 📝To-do list before December 31st, 2024 (in order):
 - Update the current sites to state 2025 instead of 2024.
+
