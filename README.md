@@ -4,7 +4,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## I am actively working on the following repos:
+## I am actively working on the following repos:   (Key: [REDACTED] = hidden/private)
 WaddlePenguins/[REDACTED]
 
 WaddlePenguins/[REDACTED]
