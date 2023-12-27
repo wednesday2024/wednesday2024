@@ -30,10 +30,6 @@ ________________________________________________________________________________
 - 🍎 In 2021, I was offered a job at Apple.
 - 🎥 In the fall of 2022, I was almost in a movie with the voice actor of Mr. Incredible.
 - 🌳 What you see in my repositories are what I have public as of right now. I have several repositories that are private as of right now that won't see day light anywhere from Q3 2023 until Q1 2026.
-- 🎮 In late July of 2023, I was invited to beta test a upcoming unannounced well known
-in-development game called [REDACTED]
-(due to legal issues if too much information is leaked, I am redacting the name).
-
 __________________________________________________________________________________________________________________________________________________________
 
 ## 📝To-do list before December 31st, 2023 (in order):
