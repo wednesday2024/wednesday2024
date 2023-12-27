@@ -45,9 +45,9 @@ ________________________________________________________________________________
 - ~~Release my about me v3 website (This will be on September 30th, 2023).~~
 - ~~Release Flappy Tux for Linux and Windows (This will be on October 7, 2023).~~
 - ~~Update the current sites to state 2024 instead of 2023.~~
-- Archive https://github.com/R5-3600/2048_clones on or before December 31, 2023
-- Archive https://github.com/1000YearsLater/RetroDatabase on or before December 31, 2023
-- Archive https://github.com/1000YearsLater/1000yearslater.github.io on or before December 31, 2023
+- ~~Archive https://github.com/R5-3600/2048_clones on or before December 31, 2023.~~
+- ~~Archive https://github.com/1000YearsLater/RetroDatabase on or before December 31, 2023.~~
+- ~~Archive https://github.com/1000YearsLater/1000yearslater.github.io on or before December 31, 2023.~~
 
 ## 📝To-do list before December 31st, 2024 (in order):
 - Update the current sites to state 2025 instead of 2024.
