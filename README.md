@@ -22,6 +22,8 @@ R5-3600/projects
 R5-3600/[REDACTED]
 
 R5-3600/[REDACTED]
+
+CDN-R5-3600/remote-content
 __________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on coding HTML and coding Unity games. [An update to my current and future Unity projects.](https://github.com/R5-3600/Announcements/blob/main/announcement_9-16-2023.txt)
