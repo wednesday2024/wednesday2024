@@ -22,7 +22,6 @@ WaddlePenguins/.github
 __________________________________________________________________________________________________________________________________________________________
 
 - 📫 You can reach me on Discord: wednesday_addams2024
-- 🔗 Check out my about me page: https://wednesday2024.github.io/about-me/
 - 🔗 Check out my public projects repo page: https://github.com/wednesday2024/projects
 - 🍎 In 2021, I was offered a job at Apple.
 - 🎥 In the fall of 2022, I was almost in a movie with the voice actor of Mr. Incredible.
