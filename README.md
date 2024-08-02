@@ -1,7 +1,5 @@
 # Hi there! Welcome to my GitHub profile. 👋
 
-__________________________________________________________________________________________________________________________________________________________
-
 ## I am actively working on the following repos:   (Key: [REDACTED] = hidden/private)
 
 fullmoondev/[REDACTED]
