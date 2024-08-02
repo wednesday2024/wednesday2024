@@ -1,7 +1,5 @@
 # Hi there! Welcome to my GitHub profile. 👋
 
-![Wednesday's GitHub stats](https://github-readme-stats-wednesday2024.vercel.app/api?username=wednesday2024&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)
-
 __________________________________________________________________________________________________________________________________________________________
 
 ## I am actively working on the following repos:   (Key: [REDACTED] = hidden/private)
